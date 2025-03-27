@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ml_engineer_test
 
 Este repositorio contiene un pipeline completo para entrenar y evaluar un modelo de summarization en español, usando datos del archivo apli_challenge_data.csv. Se incluyen scripts para preprocesamiento, configuración del modelo, evaluación de métricas (ROUGE) y recomendaciones de negocio.
@@ -79,6 +79,4 @@ Experimenta con el número de épocas, learning rate, tamaños de batch, etc., p
 
 ##### Manejo de Datos Sensibles
 Si tu dataset contiene información personal, revisa la configuración de privacidad y asegúrate de cumplir con regulaciones como GDPR.
-=======
-# ml_engineer_test
->>>>>>> 2d3256a1937e91487f4a24a608e6beebd0bd2b33
+
