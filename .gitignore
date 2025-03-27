@@ -172,6 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
 
 ml_test
 data/apli_challenge_data.csv
+=======
+>>>>>>> 2d3256a1937e91487f4a24a608e6beebd0bd2b33
